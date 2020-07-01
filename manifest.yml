@@ -1,6 +1,6 @@
 applications:
 - name: LegacyBoysApp
   command: npm start
-  path: /LegacyBoys/starter-kit/server-app
+  path: LegacyBoys/starter-kit/server-app
   memory: 128M
   instances: 1
